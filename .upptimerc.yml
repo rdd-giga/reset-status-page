@@ -8,6 +8,14 @@ sites:
     url: https://assessment.reset.build
   - name: RESET Cloud
     url: https://cloud.reset.build
+  - name: RESET Socket API
+    url: https://reset.build
+    port: 8069
+    check: "tcp-ping"
+
+assignees:
+  - serco-chen
+  - charleschu
 
 status-website:
   baseUrl: /reset-status-page
