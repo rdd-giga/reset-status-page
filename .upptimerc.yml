@@ -20,6 +20,7 @@ assignees:
 status-website:
   baseUrl: /reset-status-page
   name: RESET Status Page
+  cname: status.reset.build
   introTitle: "**RESET** is a set of standards and assessment tools & services to develop actionable, long term strategies towards health and sustainability for the built environment."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/rdd-giga/reset-status-page).
   navbar:
