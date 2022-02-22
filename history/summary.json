@@ -40,18 +40,20 @@
     "url": "https://cloud.reset.build",
     "icon": "https://favicons.githubusercontent.com/cloud.reset.build",
     "slug": "reset-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 876,
-    "timeDay": 656,
-    "timeWeek": 782,
-    "timeMonth": 817,
-    "timeYear": 876,
-    "dailyMinutesDown": {}
+    "time": 877,
+    "timeDay": 849,
+    "timeWeek": 814,
+    "timeMonth": 824,
+    "timeYear": 877,
+    "dailyMinutesDown": {
+      "2022-02-22": 0
+    }
   },
   {
     "name": "RESET Socket API",
