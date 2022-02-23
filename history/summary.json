@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 663,
-    "timeWeek": 787,
-    "timeMonth": 849,
-    "timeYear": 949,
+    "time": 946,
+    "timeDay": 649,
+    "timeWeek": 765,
+    "timeMonth": 845,
+    "timeYear": 946,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 673,
-    "timeWeek": 819,
+    "time": 886,
+    "timeDay": 643,
+    "timeWeek": 799,
     "timeMonth": 815,
-    "timeYear": 888,
+    "timeYear": 886,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "reset-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 889,
-    "timeWeek": 831,
+    "time": 876,
+    "timeDay": 883,
+    "timeWeek": 807,
     "timeMonth": 828,
-    "timeYear": 878,
-    "dailyMinutesDown": {
-      "2022-02-22": 6
-    }
+    "timeYear": 876,
+    "dailyMinutesDown": {}
   },
   {
     "name": "RESET Socket API",
