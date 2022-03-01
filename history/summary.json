@@ -22,19 +22,19 @@
     "url": "https://assessment.reset.build",
     "icon": "https://favicons.githubusercontent.com/assessment.reset.build",
     "slug": "reset-assessment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 883,
-    "timeDay": 682,
-    "timeWeek": 810,
-    "timeMonth": 839,
-    "timeYear": 883,
+    "time": 885,
+    "timeDay": 860,
+    "timeWeek": 838,
+    "timeMonth": 846,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2022-03-01": 9
+      "2022-03-01": 14
     }
   },
   {
@@ -44,18 +44,16 @@
     "slug": "reset-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 878,
     "timeDay": 847,
     "timeWeek": 904,
     "timeMonth": 853,
     "timeYear": 878,
-    "dailyMinutesDown": {
-      "2022-03-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RESET Socket API",
