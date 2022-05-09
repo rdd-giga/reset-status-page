@@ -22,18 +22,20 @@
     "url": "https://assessment.reset.build",
     "icon": "https://favicons.githubusercontent.com/assessment.reset.build",
     "slug": "reset-assessment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 887,
-    "timeDay": 680,
-    "timeWeek": 944,
-    "timeMonth": 965,
+    "timeDay": 802,
+    "timeWeek": 941,
+    "timeMonth": 963,
     "timeYear": 887,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-09": 0
+    }
   },
   {
     "name": "RESET Cloud",
