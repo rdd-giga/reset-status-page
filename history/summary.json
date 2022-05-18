@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 923,
-    "timeDay": 709,
-    "timeWeek": 894,
-    "timeMonth": 959,
+    "timeDay": 925,
+    "timeWeek": 878,
+    "timeMonth": 953,
     "timeYear": 923,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 890,
-    "timeDay": 639,
-    "timeWeek": 969,
-    "timeMonth": 996,
+    "timeDay": 925,
+    "timeWeek": 939,
+    "timeMonth": 991,
     "timeYear": 890,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 866,
-    "timeDay": 637,
-    "timeWeek": 871,
-    "timeMonth": 889,
+    "timeDay": 960,
+    "timeWeek": 862,
+    "timeMonth": 890,
     "timeYear": 866,
     "dailyMinutesDown": {}
   },
@@ -58,9 +58,9 @@
     "url": "https://reset.build",
     "icon": "https://favicons.githubusercontent.com/reset.build",
     "slug": "reset-socket-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 0
+    }
   }
 ]
