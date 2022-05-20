@@ -22,18 +22,20 @@
     "url": "https://assessment.reset.build",
     "icon": "https://favicons.githubusercontent.com/assessment.reset.build",
     "slug": "reset-assessment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 890,
-    "timeDay": 942,
-    "timeWeek": 915,
-    "timeMonth": 993,
+    "timeDay": 935,
+    "timeWeek": 917,
+    "timeMonth": 991,
     "timeYear": 890,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-20": 0
+    }
   },
   {
     "name": "RESET Cloud",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/reset.build",
     "slug": "reset-socket-api",
     "status": "down",
-    "uptime": "98.97%",
+    "uptime": "98.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.31%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "98.97%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "98.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-20": 13,
+      "2022-05-20": 369,
       "2022-05-19": 1440,
       "2022-05-18": 1438
     }
