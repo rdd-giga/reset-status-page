@@ -22,10 +22,10 @@
     "url": "https://assessment.reset.build",
     "icon": "https://favicons.githubusercontent.com/assessment.reset.build",
     "slug": "reset-assessment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 980,
@@ -34,7 +34,7 @@
     "timeMonth": 1646,
     "timeYear": 980,
     "dailyMinutesDown": {
-      "2022-07-24": 68
+      "2022-07-24": 69
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-24": 243,
+      "2022-07-24": 259,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
