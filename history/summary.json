@@ -22,10 +22,10 @@
     "url": "https://assessment.reset.build",
     "icon": "https://favicons.githubusercontent.com/assessment.reset.build",
     "slug": "reset-assessment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "80.57%",
-    "uptimeWeek": "97.22%",
+    "uptimeDay": "80.46%",
+    "uptimeWeek": "97.21%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.93%",
     "time": 1127,
@@ -34,7 +34,7 @@
     "timeMonth": 2519,
     "timeYear": 1127,
     "dailyMinutesDown": {
-      "2022-07-24": 278
+      "2022-07-24": 280
     }
   },
   {
@@ -42,7 +42,7 @@
     "url": "https://cloud.reset.build",
     "icon": "https://favicons.githubusercontent.com/cloud.reset.build",
     "slug": "reset-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "83.17%",
     "uptimeWeek": "97.60%",
@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/reset.build",
     "slug": "reset-socket-api",
     "status": "down",
-    "uptime": "74.16%",
+    "uptime": "74.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "74.16%",
+    "uptimeYear": "74.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-24": 717,
+      "2022-07-24": 729,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
