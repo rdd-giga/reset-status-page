@@ -22,19 +22,19 @@
     "url": "https://assessment.reset.build",
     "icon": "https://favicons.githubusercontent.com/assessment.reset.build",
     "slug": "reset-assessment",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "91.23%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.97%",
-    "time": 1030,
-    "timeDay": 6994,
-    "timeWeek": 4022,
-    "timeMonth": 1991,
-    "timeYear": 1030,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "89.10%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.96%",
+    "time": 1055,
+    "timeDay": 7141,
+    "timeWeek": 4329,
+    "timeMonth": 2158,
+    "timeYear": 1055,
     "dailyMinutesDown": {
-      "2022-07-24": 126
+      "2022-07-24": 156
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://cloud.reset.build",
     "icon": "https://favicons.githubusercontent.com/cloud.reset.build",
     "slug": "reset-cloud",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "91.63%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "89.50%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.96%",
     "time": 944,
-    "timeDay": 4580,
-    "timeWeek": 2625,
-    "timeMonth": 1483,
+    "timeDay": 3997,
+    "timeWeek": 2496,
+    "timeMonth": 1471,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2022-07-24": 120
+      "2022-07-24": 151
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-24": 444,
+      "2022-07-24": 475,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
       "2022-07-21": 1440,
