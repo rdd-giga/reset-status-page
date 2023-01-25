@@ -4,10 +4,10 @@
     "url": "https://reset.build",
     "icon": "https://icons.duckduckgo.com/ip3/reset.build.ico",
     "slug": "reset-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 984,
@@ -15,7 +15,9 @@
     "timeWeek": 892,
     "timeMonth": 1014,
     "timeYear": 985,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "RESET Assessment",
@@ -24,9 +26,9 @@
     "slug": "reset-assessment",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.91%",
     "time": 1173,
     "timeDay": 883,
@@ -34,7 +36,7 @@
     "timeMonth": 896,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2023-01-25": 1,
+      "2023-01-25": 15,
       "2022-12-12": 40,
       "2022-09-27": 47,
       "2022-07-24": 361
@@ -46,10 +48,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.reset.build.ico",
     "slug": "reset-cloud",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.92%",
     "time": 994,
     "timeDay": 1000,
@@ -57,7 +59,7 @@
     "timeMonth": 901,
     "timeYear": 1017,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 15,
       "2022-12-12": 39,
       "2022-09-27": 47,
       "2022-07-24": 324
@@ -80,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-25": 514,
+      "2023-01-25": 529,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
