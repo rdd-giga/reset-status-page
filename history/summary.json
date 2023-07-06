@@ -4,18 +4,20 @@
     "url": "https://reset.build",
     "icon": "https://icons.duckduckgo.com/ip3/reset.build.ico",
     "slug": "reset-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 960,
-    "timeWeek": 966,
-    "timeMonth": 936,
-    "timeYear": 997,
-    "dailyMinutesDown": {}
+    "time": 973,
+    "timeDay": 817,
+    "timeWeek": 941,
+    "timeMonth": 928,
+    "timeYear": 996,
+    "dailyMinutesDown": {
+      "2023-07-06": 0
+    }
   },
   {
     "name": "RESET Assessment",
@@ -69,7 +71,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reset.build.ico",
     "slug": "reset-socket-api",
     "status": "down",
-    "uptime": "31.87%",
+    "uptime": "31.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -80,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-06": 18,
+      "2023-07-06": 929,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
