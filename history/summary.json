@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 1000,
-    "timeDay": 2803,
-    "timeWeek": 1976,
-    "timeMonth": 1199,
-    "timeYear": 1012,
+    "time": 1006,
+    "timeDay": 5122,
+    "timeWeek": 2386,
+    "timeMonth": 1310,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2023-07-24": 70
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1195,
-    "timeDay": 910,
-    "timeWeek": 851,
-    "timeMonth": 873,
-    "timeYear": 1036,
+    "time": 1194,
+    "timeDay": 692,
+    "timeWeek": 819,
+    "timeMonth": 861,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2022-12-12": 40,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1001,
-    "timeDay": 803,
-    "timeWeek": 784,
-    "timeMonth": 881,
-    "timeYear": 900,
+    "time": 1000,
+    "timeDay": 691,
+    "timeWeek": 753,
+    "timeMonth": 875,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2022-12-12": 39,
@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reset.build.ico",
     "slug": "reset-socket-api",
     "status": "down",
-    "uptime": "30.52%",
+    "uptime": "30.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -80,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 14,
+      "2023-08-03": 15,
+      "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -443,8 +444,7 @@
       "2022-08-07": 1440,
       "2022-08-06": 1440,
       "2022-08-05": 1440,
-      "2022-08-04": 1440,
-      "2022-08-03": 1440
+      "2022-08-04": 1440
     }
   }
 ]
