@@ -6,7 +6,7 @@
     "slug": "reset-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1898,
     "timeYear": 1164,
     "dailyMinutesDown": {
+      "2023-09-28": 0,
       "2023-07-24": 70
     }
   },
@@ -78,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-28": 13,
+      "2023-09-28": 241,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
