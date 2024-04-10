@@ -1,7 +1,7 @@
 url: https://assessment.reset.build
-status: up
-code: 200
-responseTime: 921
-lastUpdated: 2024-04-09T23:01:00.390Z
+status: down
+code: 502
+responseTime: 1077
+lastUpdated: 2024-04-10T01:32:55.568Z
 startTime: 2021-11-05T07:17:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
