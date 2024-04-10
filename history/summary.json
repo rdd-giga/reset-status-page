@@ -25,19 +25,19 @@
     "url": "https://assessment.reset.build",
     "icon": "https://icons.duckduckgo.com/ip3/assessment.reset.build.ico",
     "slug": "reset-assessment",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 974,
-    "timeDay": 999,
-    "timeWeek": 961,
-    "timeMonth": 1048,
+    "timeDay": 979,
+    "timeWeek": 958,
+    "timeMonth": 1044,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 21
     }
   },
   {
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-10": 93,
+      "2024-04-10": 114,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
