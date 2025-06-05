@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2072,
-    "timeDay": 1769,
-    "timeWeek": 1808,
+    "time": 2071,
+    "timeDay": 1579,
+    "timeWeek": 1806,
     "timeMonth": 1718,
-    "timeYear": 2103,
+    "timeYear": 2100,
     "dailyMinutesDown": {
       "2024-12-17": 17,
       "2024-09-13": 25,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1023,
-    "timeDay": 877,
-    "timeWeek": 951,
-    "timeMonth": 909,
-    "timeYear": 1025,
+    "timeDay": 848,
+    "timeWeek": 950,
+    "timeMonth": 913,
+    "timeYear": 1024,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
-    "timeDay": 1087,
-    "timeWeek": 946,
-    "timeMonth": 897,
-    "timeYear": 1010,
+    "time": 994,
+    "timeDay": 1063,
+    "timeWeek": 975,
+    "timeMonth": 908,
+    "timeYear": 1009,
     "dailyMinutesDown": {}
   },
   {
@@ -63,7 +63,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reset.build.ico",
     "slug": "reset-socket-api",
     "status": "down",
-    "uptime": "14.82%",
+    "uptime": "14.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -74,7 +74,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-04": 21,
+      "2025-06-05": 21,
+      "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
@@ -437,8 +438,7 @@
       "2024-06-09": 1440,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   }
 ]
