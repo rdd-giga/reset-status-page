@@ -4,19 +4,19 @@
     "url": "https://reset.build",
     "icon": "https://icons.duckduckgo.com/ip3/reset.build.ico",
     "slug": "reset-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2042,
-    "timeDay": 6897,
-    "timeWeek": 3026,
-    "timeMonth": 2076,
-    "timeYear": 2020,
+    "time": 2041,
+    "timeDay": 5176,
+    "timeWeek": 2883,
+    "timeMonth": 2065,
+    "timeYear": 2019,
     "dailyMinutesDown": {
-      "2025-12-23": 0
+      "2025-12-23": 10
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-23": 1279,
+      "2025-12-23": 1288,
       "2025-12-22": 1440,
       "2025-12-21": 1440,
       "2025-12-20": 1440,
